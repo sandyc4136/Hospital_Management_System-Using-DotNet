@@ -1,0 +1,21 @@
+﻿
+@model HMS.DTO.RoleStore
+
+
+    <div class="mx-auto">
+        <h1>Update Roles</h1>
+    </div>
+    <form asp-action="GetUserIdAndRoleId">
+        <hr />
+        <div class="form-group">
+            <select>
+                <option value="Admin">Admin</option>
+                <option value="Patient">Patient</option>
+                <option value="Doctor">Doctor</option>
+            </select>
+        </div>
+    </form>
+<div>
+    <a asp-action="AddRoletoUser" asp-route="@Model?.Id" asp-route-roleid="@Model.RoleName">Assign a Role</a> <!-- User Id -->
+    <a asp-action="Index">Back to List</a>
+</div>

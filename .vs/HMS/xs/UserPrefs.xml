@@ -1,0 +1,38 @@
+﻿<Properties StartupConfiguration="{4B3756E4-0F7D-4BED-AAF9-6751C8CA207F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/ContactUsController.cs">
+    <Files>
+      <File FileName="Views/Booking/Details.cshtml" />
+      <File FileName="Controllers/ContactUsController.cs" Line="76" Column="14" />
+      <File FileName="Controllers/BookingController.cs" />
+      <File FileName="Views/ContactUs/Create.cshtml" Line="37" Column="24" />
+      <File FileName="Views/Booking/Create.cshtml" />
+      <File FileName="appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HMS" expanded="True">
+            <Node name="HMS">
+              <Node name="Controllers" expanded="True">
+                <Node name="ContactUsController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Booking" expanded="True" />
+                <Node name="ContactUs" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HMS PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

@@ -1,0 +1,28 @@
+﻿@model IEnumerable<ApplicationUser>
+
+<h2>User List</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Email</th>
+            <th>Name</th>
+           
+            <th>Action</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model)
+        {
+            <tr>
+                <td>@user.Id</td>
+                <td>@user.Email</td>
+                <td>@user.Name</td>
+
+                <td><a asp-controller="Admin" asp-action="GetUserDet" class="btn btn-primary" >Update Role</a></td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,513 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/obj/Debug/net6.0/scopedcss/projectbundle/HMS.bundle.scp.css",
+      "PackagePath": "staticwebassets/HMS.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/0154bce5-dc8b-4bcb-ad18-d03c0510455c-doc44.jpg",
+      "PackagePath": "staticwebassets/Images/0154bce5-dc8b-4bcb-ad18-d03c0510455c-doc44.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/0341ae5f-7460-4c3e-ae66-ff4b45a55cad-doc22.jpg",
+      "PackagePath": "staticwebassets/Images/0341ae5f-7460-4c3e-ae66-ff4b45a55cad-doc22.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/0ceafef6-3942-4fd8-bc2c-9c931d219ee7-Doctor4.jpeg",
+      "PackagePath": "staticwebassets/Images/0ceafef6-3942-4fd8-bc2c-9c931d219ee7-Doctor4.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/10da20c1-05d9-4dc3-bb35-4fa446b95584-hindi.jpeg",
+      "PackagePath": "staticwebassets/Images/10da20c1-05d9-4dc3-bb35-4fa446b95584-hindi.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/11b493cb-cbfe-441a-9563-009c022a9dac-IMG_20180108_163724.jpg",
+      "PackagePath": "staticwebassets/Images/11b493cb-cbfe-441a-9563-009c022a9dac-IMG_20180108_163724.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/188f07fe-76be-4644-ae74-bba01c1ec3ba-Aayushi.jpeg",
+      "PackagePath": "staticwebassets/Images/188f07fe-76be-4644-ae74-bba01c1ec3ba-Aayushi.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/1ccceff7-cf0e-4b4f-939b-06da233f585f-English_Banner.jpg.thumb.1280.1280.jpg",
+      "PackagePath": "staticwebassets/Images/1ccceff7-cf0e-4b4f-939b-06da233f585f-English_Banner.jpg.thumb.1280.1280.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/1cf6c311-a9d3-43c4-83f0-02bf0cffc573-college.jpeg",
+      "PackagePath": "staticwebassets/Images/1cf6c311-a9d3-43c4-83f0-02bf0cffc573-college.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/334bcf71-4149-428c-a4b7-7659b38019aa-download.png",
+      "PackagePath": "staticwebassets/Images/334bcf71-4149-428c-a4b7-7659b38019aa-download.png"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/38f14c2a-4485-4afd-a76f-3e8f3e07f1b8-Sandip.jpeg",
+      "PackagePath": "staticwebassets/Images/38f14c2a-4485-4afd-a76f-3e8f3e07f1b8-Sandip.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/3bbf0efe-252c-442f-9a54-8969dfe2d398-doc33.jpg",
+      "PackagePath": "staticwebassets/Images/3bbf0efe-252c-442f-9a54-8969dfe2d398-doc33.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/4264e963-6245-4430-bfa9-88adc7299072-IMG_1359.jpg",
+      "PackagePath": "staticwebassets/Images/4264e963-6245-4430-bfa9-88adc7299072-IMG_1359.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/430b0306-97a2-41e3-ae20-9167487e37df-doc22.jpg",
+      "PackagePath": "staticwebassets/Images/430b0306-97a2-41e3-ae20-9167487e37df-doc22.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/4dcea3cd-59d4-40d7-b241-6d6620a6edaa-download.png",
+      "PackagePath": "staticwebassets/Images/4dcea3cd-59d4-40d7-b241-6d6620a6edaa-download.png"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/51c969a5-5fb8-47d8-b6ab-66b5b3276f79-doc66.jpg",
+      "PackagePath": "staticwebassets/Images/51c969a5-5fb8-47d8-b6ab-66b5b3276f79-doc66.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/5d32d591-80f4-4dab-bc55-6aa17a7b3014-IMG-20180811-WA0014.jpg",
+      "PackagePath": "staticwebassets/Images/5d32d591-80f4-4dab-bc55-6aa17a7b3014-IMG-20180811-WA0014.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/66c9324c-629e-4db7-b95d-4fcaa2417b64-doc66.jpg",
+      "PackagePath": "staticwebassets/Images/66c9324c-629e-4db7-b95d-4fcaa2417b64-doc66.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/6cd49dd5-f1bd-4e9b-b38c-6282ca8ecc28-Atul.jpeg",
+      "PackagePath": "staticwebassets/Images/6cd49dd5-f1bd-4e9b-b38c-6282ca8ecc28-Atul.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/71f90ab1-f332-4bd9-9305-5cf23305f8f6-doc33.jpg",
+      "PackagePath": "staticwebassets/Images/71f90ab1-f332-4bd9-9305-5cf23305f8f6-doc33.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/74006fdd-5d9b-47da-8764-dc9acde961ee-BPUT.jpeg",
+      "PackagePath": "staticwebassets/Images/74006fdd-5d9b-47da-8764-dc9acde961ee-BPUT.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/74786055-9da1-4b26-850b-bcb3767119f3-rajendra.jpg",
+      "PackagePath": "staticwebassets/Images/74786055-9da1-4b26-850b-bcb3767119f3-rajendra.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/77d85de5-00e3-4f5d-8f41-dfb71b25eb56-download (1).png",
+      "PackagePath": "staticwebassets/Images/77d85de5-00e3-4f5d-8f41-dfb71b25eb56-download (1).png"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/85bdcc8b-f7c0-4600-b2d9-158d51c4685e-Doctorr3.jpeg",
+      "PackagePath": "staticwebassets/Images/85bdcc8b-f7c0-4600-b2d9-158d51c4685e-Doctorr3.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/864a22ce-2238-4145-9a97-8031ba4c4283-doc55.jpg",
+      "PackagePath": "staticwebassets/Images/864a22ce-2238-4145-9a97-8031ba4c4283-doc55.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/8e22ac71-ce3b-414f-9301-8e7c3d648830-b_tech_civil.jpeg",
+      "PackagePath": "staticwebassets/Images/8e22ac71-ce3b-414f-9301-8e7c3d648830-b_tech_civil.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/8e2b10ef-da7e-4d75-8543-b30cbeae1326-doc44.jpg",
+      "PackagePath": "staticwebassets/Images/8e2b10ef-da7e-4d75-8543-b30cbeae1326-doc44.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/8f224f54-1c82-47df-8cee-29e1f4c96706-IMG_9399.HEIC",
+      "PackagePath": "staticwebassets/Images/8f224f54-1c82-47df-8cee-29e1f4c96706-IMG_9399.HEIC"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/917180eb-f3a6-4f19-bce3-2329eb407ba8-Doctor2.jpeg",
+      "PackagePath": "staticwebassets/Images/917180eb-f3a6-4f19-bce3-2329eb407ba8-Doctor2.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/92376352-537f-4415-90f7-01472ad0d3d0-b_tech_civil.jpeg",
+      "PackagePath": "staticwebassets/Images/92376352-537f-4415-90f7-01472ad0d3d0-b_tech_civil.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/93e136d1-3afa-4470-831d-6f1f84c1cea4-Doctor1.jpeg",
+      "PackagePath": "staticwebassets/Images/93e136d1-3afa-4470-831d-6f1f84c1cea4-Doctor1.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/99d69072-041f-4993-9d3b-9d490ab0852a-IMG_9399.HEIC",
+      "PackagePath": "staticwebassets/Images/99d69072-041f-4993-9d3b-9d490ab0852a-IMG_9399.HEIC"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/9db5eaab-659e-48e5-8f9c-b405a92e5395-college.jpeg",
+      "PackagePath": "staticwebassets/Images/9db5eaab-659e-48e5-8f9c-b405a92e5395-college.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/a3d7affc-d251-4895-bf40-d074e306abe1-resize-16657495411929669086passportsizepic.jpeg",
+      "PackagePath": "staticwebassets/Images/a3d7affc-d251-4895-bf40-d074e306abe1-resize-16657495411929669086passportsizepic.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/a4183c28-e330-4d6c-a148-15040e1b7fe3-hindi.jpeg",
+      "PackagePath": "staticwebassets/Images/a4183c28-e330-4d6c-a148-15040e1b7fe3-hindi.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/a50510f5-f66d-4fba-92be-2a70983715df-resize-16657495411929669086passportsizepic.jpeg",
+      "PackagePath": "staticwebassets/Images/a50510f5-f66d-4fba-92be-2a70983715df-resize-16657495411929669086passportsizepic.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/a9f2fb14-6223-4aea-85ba-382eed13177c-chritsmas.jpeg",
+      "PackagePath": "staticwebassets/Images/a9f2fb14-6223-4aea-85ba-382eed13177c-chritsmas.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/bcc86873-d0df-4cd5-bc71-1bc891b96bcc-Doctor2.jpeg",
+      "PackagePath": "staticwebassets/Images/bcc86873-d0df-4cd5-bc71-1bc891b96bcc-Doctor2.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/c361adaf-9986-45dc-9bc5-31af1fcf3fba-IMG_1359.jpg",
+      "PackagePath": "staticwebassets/Images/c361adaf-9986-45dc-9bc5-31af1fcf3fba-IMG_1359.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/d309cedd-e0bd-4c4e-81f0-d30397b3b9b1-Sandip.jpeg",
+      "PackagePath": "staticwebassets/Images/d309cedd-e0bd-4c4e-81f0-d30397b3b9b1-Sandip.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/db899ae3-ee75-481f-abfd-3a5a1e2afd7c-IMG-20180527-WA0000.jpg",
+      "PackagePath": "staticwebassets/Images/db899ae3-ee75-481f-abfd-3a5a1e2afd7c-IMG-20180527-WA0000.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/dfad4ae7-8678-4b3b-a25a-ad01e9a0ac83-rajendra.jpg",
+      "PackagePath": "staticwebassets/Images/dfad4ae7-8678-4b3b-a25a-ad01e9a0ac83-rajendra.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/e37d948f-324b-4048-bdc1-f43cd56e4959-Atul.jpeg",
+      "PackagePath": "staticwebassets/Images/e37d948f-324b-4048-bdc1-f43cd56e4959-Atul.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/ec96f508-f23f-4d9f-98bc-8ef5359a1e3f-Doctor4.jpeg",
+      "PackagePath": "staticwebassets/Images/ec96f508-f23f-4d9f-98bc-8ef5359a1e3f-Doctor4.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/f052cfa0-a733-4a5f-a31f-3ada4a8f6333-Dayanand.jpeg",
+      "PackagePath": "staticwebassets/Images/f052cfa0-a733-4a5f-a31f-3ada4a8f6333-Dayanand.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/f44c1adc-8864-4b86-a90f-7876153aa9c2-68d114ff-9028-4b3f-a6e3-f92811a775c9.jpg",
+      "PackagePath": "staticwebassets/Images/f44c1adc-8864-4b86-a90f-7876153aa9c2-68d114ff-9028-4b3f-a6e3-f92811a775c9.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/fea28d95-5556-45a8-b21f-617fbfd24eba-IMG_20180108_162045.jpg",
+      "PackagePath": "staticwebassets/Images/fea28d95-5556-45a8-b21f-617fbfd24eba-IMG_20180108_162045.jpg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/Images/ff26fef4-23b0-4eba-9cb8-f8266b834252-college.jpeg",
+      "PackagePath": "staticwebassets/Images/ff26fef4-23b0-4eba-9cb8-f8266b834252-college.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/.DS_Store",
+      "PackagePath": "staticwebassets/css/.DS_Store"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/AboutUs.css",
+      "PackagePath": "staticwebassets/css/AboutUs.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/img/Approach.png",
+      "PackagePath": "staticwebassets/css/img/Approach.png"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/img/Doctor.jpeg",
+      "PackagePath": "staticwebassets/css/img/Doctor.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/img/Doctor1.jpeg",
+      "PackagePath": "staticwebassets/css/img/Doctor1.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/img/Doctor2.jpeg",
+      "PackagePath": "staticwebassets/css/img/Doctor2.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/img/Doctor4.jpeg",
+      "PackagePath": "staticwebassets/css/img/Doctor4.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/img/Doctorr3.jpeg",
+      "PackagePath": "staticwebassets/css/img/Doctorr3.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/img/Doctors.jpeg",
+      "PackagePath": "staticwebassets/css/img/Doctors.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/img/Our Team.jpeg",
+      "PackagePath": "staticwebassets/css/img/Our Team.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/img/Visions.jpeg",
+      "PackagePath": "staticwebassets/css/img/Visions.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/img/Why.jpeg",
+      "PackagePath": "staticwebassets/css/img/Why.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/img/logo1.jpeg",
+      "PackagePath": "staticwebassets/css/img/logo1.jpeg"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/mythemebootstrap.css",
+      "PackagePath": "staticwebassets/css/mythemebootstrap.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/sandipchhetry/Documents/CDAC/DotNet_Project/Projects/HMS/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.HMS.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.HMS.props",
+      "PackagePath": "build\\HMS.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.HMS.props",
+      "PackagePath": "buildMultiTargeting\\HMS.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.HMS.props",
+      "PackagePath": "buildTransitive\\HMS.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

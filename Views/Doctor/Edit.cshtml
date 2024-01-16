@@ -1,0 +1,74 @@
+﻿@model HMS.DTO.DoctorImage
+
+<h2>Edit Doctor</h2>
+
+<form asp-action="Edit" method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="form-group">
+        <label asp-for="FirstName"></label>
+        <input asp-for="FirstName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="LastName"></label>
+        <input asp-for="LastName" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Age"></label>
+        <input asp-for="Age" class="form-control" />
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Phone"></label>
+        <input asp-for="Phone" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label asp-for="Gender"></label>
+        <select asp-for="Gender" class="form-control">
+            <option asp-for="Gender">Select</option>
+            <option asp-for="Gender">Male</option>
+            <option asp-for="Gender">Female</option>
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="BloodGroup"></label>
+        <select asp-for="BloodGroup" class="form-control">
+            <option asp-for="BloodGroup">Select</option>
+            <option asp-for="BloodGroup">A+</option>
+            <option asp-for="BloodGroup">A-</option>
+            <option asp-for="BloodGroup">B+</option>
+            <option asp-for="BloodGroup">B-</option>
+            <option asp-for="BloodGroup">AB+</option>
+            <option asp-for="BloodGroup">AB-</option>
+            <option asp-for="BloodGroup">O+</option>
+            <option asp-for="BloodGroup">O-</option>
+
+        </select>
+    </div>
+    <div class="form-group">
+        <label asp-for="Department"></label>
+        <select asp-for="Department" class="form-control">
+            <option asp-for="Department">Select</option>
+            <option asp-for="Department">Orthopedics</option>
+            <option asp-for="Department">Cardiology</option>
+            <option asp-for="Department">Internal Medicine</option>
+            <option asp-for="Department">Surgery</option>
+            <option asp-for="Department">Pediatrics</option>
+            <option asp-for="Department">Radiology</option>
+            <option asp-for="Department">Anesthesiology</option>
+            <option asp-for="Department">Ophthalmology</option>
+            <option asp-for="Department">Ophthalmology(ENT)</option>
+            <option asp-for="Department">Dermatology</option>
+            <option asp-for="Department">Psychiatry</option>
+            <option asp-for="Department">Pathology</option>
+        </select>
+        <div class="form-group">
+            <label asp-for="ProfileImage" class="control-label"></label>
+            <input asp-for="ProfileImage" class="form-control" />
+            <span asp-validation-for="ProfileImage" class="text-danger"></span>
+        </div><br />
+        <button type="submit" class="btn btn-primary">Save Changes</button>
+        <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>

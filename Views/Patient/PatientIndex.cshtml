@@ -1,0 +1,76 @@
+﻿@model HMS.DTO.PatientImage
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Profie Details </h1>
+
+<div>
+    
+    <hr />
+    <dl class="row">
+
+        <dt class="col-sm-2">
+            ID:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Id
+        </dd>
+        @*<dt class = "col-sm-2">
+                Email:
+            </dt>
+            <dd class = "col-sm-10">
+               @Model.Email
+            </dd>*@
+        <dt class="col-sm-2">
+            Phone:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Phone
+        </dd>
+        <dt class="col-sm-2">
+            Disease:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Disease
+        </dd>
+        <dt class="col-sm-2">
+            BloodGroup:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.BloodGroup
+        </dd>
+        <dt class="col-sm-2">
+            Age:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Age
+        </dd>
+        <dt class="col-sm-2">
+            Gender:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Gender
+        </dd>
+        <dt class="col-sm-2">
+            Address:
+        </dt>
+        <dd class="col-sm-10">
+            @Model.Address
+        </dd>
+        <dt class="col-sm-2">
+            ProfileImage:
+        </dt>
+        <dd class="col-sm-10">
+
+            <img src="~/Images/@Model.ProfileImage" width="180px" height="300px" asp-append-version="true">
+        </dd>
+
+    </dl>
+</div>
+<div>
+
+    <div>
+        <a asp-controller="Booking" asp-action="Create">Book Appointment</a>
+    </div>

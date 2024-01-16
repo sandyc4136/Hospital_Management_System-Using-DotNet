@@ -1,0 +1,43 @@
+﻿
+@model IEnumerable<Booking>
+
+<h2>Bookings till Date</h2>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Email</th>
+            <th>Name</th>
+            <th>Phone</th>
+            <th>Diseases</th>
+            <th>Age</th>
+            <th>Gender</th>
+            <th>Address</th>
+            <th>Booking Date</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var booking in Model)
+        {
+            <tr>
+                <td>@booking.Id</td>
+                <td>@booking.Email</td>
+                <td>@booking.Name</td>
+                <td>@booking.Phone</td>
+                <td>@booking.Diseases</td>
+                <td>@booking.Age</td>
+                <td>@booking.Gender</td>
+                <td>@booking.Address</td>
+                <td>@booking.BookingDate</td>
+                <td>
+                    <a asp-controller="Booking" asp-action="Edit" class="btn btn-primary">Edit</a>
+                </td>
+
+                <td><a asp-controller="Booking" asp-action="Delete" class="btn btn-primary">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
